@@ -10,4 +10,8 @@ This will have all of the content you need to join our Minecraft Server.
 - [Mods To Download](https://drive.google.com/drive/folders/19oYRIpspXZSRqEmk4iKtNhuAde3rF2Ma){:target="_blank"}
 - [Moderation Form](https://forms.gle/1fqBsQFNifufsqXBA){:target="_blank"}
 
-### MAKE SURE YOU HAVE THESE MODS
+### Make sure you have all the mods downloaded, you will need all of them to join the server. 
+
+### Credits
+- GManIsSpoopy(Owner)
+- IINXMP(Co-Owner)
