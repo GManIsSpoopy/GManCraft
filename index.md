@@ -12,6 +12,8 @@ This will have all of the content you need to join our Minecraft Server.
 
 ### Make sure you have all the mods downloaded, you will need all of them to join the server. 
 
+---
+
 ### Credits
 - GManIsSpoopy(Owner)
 - IINXMP(Co-Owner)
