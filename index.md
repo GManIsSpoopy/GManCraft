@@ -17,3 +17,11 @@ This will have all of the content you need to join our Minecraft Server.
 ### Credits
 - GManIsSpoopy(Owner)
 - IINXMP(Co-Owner)
+
+---
+
+### Requirements 
+- Desktop or Laptop
+- 14gb of ram or more
+- GPU or CPU that can handle minecraft
+- storage enough for 200gb 
