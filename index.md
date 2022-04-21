@@ -18,11 +18,7 @@ This will have all of the content you need to join our Minecraft Server.
 ---
 
 ### Requirements 
-- Desktop or Laptop
-- 14gb of ram or more
-- GPU or CPU that can handle minecraft
-- storage enough for 200gb
- 
+- Testing In progress
 ---
 
 ### Credits
