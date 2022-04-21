@@ -19,6 +19,7 @@ This will have all of the content you need to join our Minecraft Server.
 
 ### Requirements 
 - Testing In progress
+- Desktop or laptop
 ---
 
 ### Credits
